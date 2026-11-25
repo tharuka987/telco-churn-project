@@ -6,7 +6,7 @@ Analyzed 7044 Telco customers to find out why customers leave (Churn) and built 
 **Dataset Source:** Kaggle - Telco Customer Churn
 
 ## 📂 Files
-- `Telco-Churn.csv` - Dataset with 7044 customers
+- WA_Fn-UseC_-Telco-Customer-Churn.csv  - Dataset with 7044 customers
 - `analysis.py` - Python analysis + Model code
 
 ## 🛠️ Tools Used
